@@ -1,4 +1,4 @@
-capstone
+Senior Capstone
 ========
 
-Senior Capstone at DePaul University
+Mike Bakley - DePaul University
